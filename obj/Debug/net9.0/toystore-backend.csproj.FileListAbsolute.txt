@@ -131,3 +131,4 @@ D:\Code\fullstack\code_four\backend\toystore-backend\bin\Debug\net9.0\tr\Microso
 D:\Code\fullstack\code_four\backend\toystore-backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Code\fullstack\code_four\backend\toystore-backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Code\fullstack\code_four\backend\toystore-backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\fullstack\code_four\backend\toystore-backend\obj\Debug\net9.0\toystore-backend.sourcelink.json
